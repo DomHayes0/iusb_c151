@@ -1,1 +1,5 @@
 An empty text file
+
+
+
+A new line at the end of the file
